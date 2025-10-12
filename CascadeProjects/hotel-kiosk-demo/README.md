@@ -1,7 +1,7 @@
-# 🏨 Hotel Self-Service Kiosk - AI-Powered Check-In System
+# 🏨 Hotel NFC Check-in Kiosk
 
 > **CodeFest 2025 - Team 404 Not Found**  
-> An intelligent, modern hotel check-in kiosk featuring real-time facial recognition, multi-user support, and seamless payment integration.
+> An intelligent, modern hotel check-in kiosk featuring NFC card scanning, real-time facial recognition, multi-user support, and seamless payment integration.
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.20-646CFF?logo=vite)](https://vitejs.dev/)
@@ -114,7 +114,7 @@ A production-ready hotel self-service kiosk application built with modern web te
 ```bash
 # Clone the repository
 git clone https://github.com/Krishnaongith/CodeFest-2025-Team--404-Not-found.git
-cd hotel-kiosk-demo
+cd CodeFest-2025-Team--404-Not-found
 
 # Install dependencies
 npm install
@@ -186,7 +186,7 @@ const guestDataTemplates = {
 ## 📁 Project Structure
 
 ```
-hotel-kiosk-demo/
+hotel-nfc-check-in-kiosk/
 ├── public/
 │   └── registered-faces/          # Face images for verification
 │       ├── krishna.jpg

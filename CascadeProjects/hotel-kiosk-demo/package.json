@@ -1,7 +1,7 @@
 {
-  "name": "hotel-kiosk-demo",
+  "name": "hotel-nfc-check-in-kiosk",
   "version": "1.0.0",
-  "description": "Hotel Check-in Kiosk Simulation",
+  "description": "Hotel NFC Check-in Kiosk - AI-Powered Self-Service System",
   "private": true,
   "scripts": {
     "dev": "vite",
