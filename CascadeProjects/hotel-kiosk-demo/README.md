@@ -366,6 +366,9 @@ For a real-world deployment, this system would integrate with:
 
 - **Krishna Sharma** - Lead Developer & AI Integration
 - **Vishwaja** - UI/UX Design & Frontend Development
+- **Rishika** - Worked on Offline deployement of NFC based prototype
+- **Krish** - Developed the security Architecture
+- **Shreyas** - NFC integration and AI based presentation development
 
 ---
 
